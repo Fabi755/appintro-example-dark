@@ -5,5 +5,5 @@ This is an example project for [AppIntro #926](https://github.com/AppIntro/AppIn
 
 ## Demo ##
 
-![](media/demo.webm)
+![Demo video](media/demo.webm)
 
