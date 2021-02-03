@@ -1,0 +1,5 @@
+<resources>
+    <string name="intro_slide_1_description">This is slide one in dark theme variant.</string>
+    <string name="intro_slide_2_description">This is slide two in dark theme variant.</string>
+    <string name="intro_slide_3_description">This is slide three in dark theme variant.</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Intro Dark Example</string>
+
+    <string name="intro_slide_1_title">Slide I</string>
+    <string name="intro_slide_1_description">This is slide one in default theme variant.</string>
+    <string name="intro_slide_2_title">Slide II</string>
+    <string name="intro_slide_2_description">This is slide two in default theme variant.</string>
+    <string name="intro_slide_3_title">Slide III</string>
+    <string name="intro_slide_3_description">This is slide three in default theme variant.</string>
+</resources>

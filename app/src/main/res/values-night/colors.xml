@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Intro -->
+    <color name="intro_indicator_selected">@color/purple_200</color>
+    <color name="intro_arrows">@color/purple_200</color>
+    <color name="intro_text">#DEDEDE</color>
+    <color name="intro_background">#1F1F1F</color>
+</resources>
